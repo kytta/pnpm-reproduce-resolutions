@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-reproduce-resolutions",
+  "private": true,
+  "dependencies": {
+    "ngx-build-plus": "^20.0.0",
+    "ngx-pipes": "^3.2.2"
+  }
+}
